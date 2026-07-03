@@ -1,0 +1,137 @@
+
+# Skills database — maps all variations to standard names
+
+SKILLS_DB = {
+    # Programming Languages
+    "python":                       "Python",
+    "java":                         "Java",
+    "javascript":                   "JavaScript",
+    "js":                           "JavaScript",
+    "c++":                          "C++",
+    "cpp":                          "C++",
+    "r":                            "R",
+    "sql":                          "SQL",
+    "mysql":                        "MySQL",
+    "postgresql":                   "PostgreSQL",
+    "postgres":                     "PostgreSQL",
+    "mongodb":                      "MongoDB",
+    "kotlin":                       "Kotlin",
+    "swift":                        "Swift",
+    "golang":                       "Go",
+    "rust":                         "Rust",
+    "scala":                        "Scala",
+    "typescript":                   "TypeScript",
+
+    # Machine Learning
+    "ml":                           "Machine Learning",
+    "machine learning":             "Machine Learning",
+    "dl":                           "Deep Learning",
+    "deep learning":                "Deep Learning",
+    "ai":                           "Artificial Intelligence",
+    "artificial intelligence":      "Artificial Intelligence",
+    "nlp":                          "Natural Language Processing",
+    "natural language processing":  "Natural Language Processing",
+    "cv":                           "Computer Vision",
+    "computer vision":              "Computer Vision",
+    "reinforcement learning":       "Reinforcement Learning",
+    "rl":                           "Reinforcement Learning",
+    "transfer learning":            "Transfer Learning",
+    "neural network":               "Neural Networks",
+    "neural networks":              "Neural Networks",
+
+    # ML Frameworks
+    "tensorflow":                   "TensorFlow",
+    "tf":                           "TensorFlow",
+    "pytorch":                      "PyTorch",
+    "torch":                        "PyTorch",
+    "keras":                        "Keras",
+    "sklearn":                      "Scikit-Learn",
+    "scikit-learn":                 "Scikit-Learn",
+    "scikit learn":                 "Scikit-Learn",
+    "huggingface":                  "HuggingFace",
+    "hugging face":                 "HuggingFace",
+    "transformers":                 "Transformers",
+    "langchain":                    "LangChain",
+    "xgboost":                      "XGBoost",
+    "lightgbm":                     "LightGBM",
+
+    # Data Science
+    "pandas":                       "Pandas",
+    "numpy":                        "NumPy",
+    "np":                           "NumPy",
+    "matplotlib":                   "Matplotlib",
+    "seaborn":                      "Seaborn",
+    "plotly":                       "Plotly",
+    "scipy":                        "SciPy",
+    "statistics":                   "Statistics",
+
+    # Visualization / BI
+    "powerbi":                      "Power BI",
+    "power bi":                     "Power BI",
+    "tableau":                      "Tableau",
+    "excel":                        "Microsoft Excel",
+    "microsoft excel":              "Microsoft Excel",
+
+    # Cloud and DevOps
+    "aws":                          "AWS",
+    "amazon web services":          "AWS",
+    "gcp":                          "GCP",
+    "google cloud":                 "GCP",
+    "azure":                        "Azure",
+    "docker":                       "Docker",
+    "kubernetes":                   "Kubernetes",
+    "k8s":                          "Kubernetes",
+    "git":                          "Git",
+    "github":                       "GitHub",
+    "mlops":                        "MLOps",
+    "ci/cd":                        "CI/CD",
+    "linux":                        "Linux",
+
+    # Web Frameworks
+    "django":                       "Django",
+    "flask":                        "Flask",
+    "fastapi":                      "FastAPI",
+    "rest":                         "REST APIs",
+    "rest api":                     "REST APIs",
+    "rest apis":                    "REST APIs",
+    "api":                          "APIs",
+    "streamlit":                    "Streamlit",
+
+    # Data Engineering
+    "spark":                        "Apache Spark",
+    "apache spark":                 "Apache Spark",
+    "hadoop":                       "Hadoop",
+    "kafka":                        "Kafka",
+    "airflow":                      "Airflow",
+
+    # NLP Specific
+    "spacy":                        "spaCy",
+    "nltk":                         "NLTK",
+    "bert":                         "BERT",
+    "gpt":                          "GPT",
+    "llm":                          "LLMs",
+    "llms":                         "LLMs",
+    "rag":                          "RAG",
+    "chromadb":                     "ChromaDB",
+    "faiss":                        "FAISS",
+    "word2vec":                     "Word2Vec",
+    "sentiment analysis":           "Sentiment Analysis",
+    "text classification":          "Text Classification",
+    "named entity recognition":     "NER",
+    "ner":                          "NER",
+
+    # Databases
+    "redis":                        "Redis",
+    "elasticsearch":                "Elasticsearch",
+    "sqlite":                       "SQLite",
+    "oracle":                       "Oracle",
+
+    # Other
+    "data analysis":                "Data Analysis",
+    "data science":                 "Data Science",
+    "data visualization":           "Data Visualization",
+    "feature engineering":          "Feature Engineering",
+    "model deployment":             "Model Deployment",
+    "hypothesis testing":           "Hypothesis Testing",
+    "a/b testing":                  "A/B Testing",
+}
